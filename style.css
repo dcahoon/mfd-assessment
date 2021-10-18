@@ -48,6 +48,11 @@ div {
 
 @media all and (min-width: 800px) {
   
+  main {
+    margin-top: 60px;
+    margin: 60px 15%;
+  }
+  
   section {
     display: flex;
     flex-direction: row;
@@ -58,5 +63,5 @@ div {
   .double-item {
     flex: 2;
   }
-  
+
 }
